@@ -1,0 +1,12 @@
+D:\Spotlight\Spotlight.Core.Configuration\bin\Debug\net7.0\Spotlight.Core.Configuration.deps.json
+D:\Spotlight\Spotlight.Core.Configuration\bin\Debug\net7.0\Spotlight.Core.Configuration.dll
+D:\Spotlight\Spotlight.Core.Configuration\bin\Debug\net7.0\Spotlight.Core.Configuration.pdb
+D:\Spotlight\Spotlight.Core.Configuration\obj\Debug\net7.0\Spotlight.Core.Configuration.csproj.AssemblyReference.cache
+D:\Spotlight\Spotlight.Core.Configuration\obj\Debug\net7.0\Spotlight.Core.Configuration.GeneratedMSBuildEditorConfig.editorconfig
+D:\Spotlight\Spotlight.Core.Configuration\obj\Debug\net7.0\Spotlight.Core.Configuration.AssemblyInfoInputs.cache
+D:\Spotlight\Spotlight.Core.Configuration\obj\Debug\net7.0\Spotlight.Core.Configuration.AssemblyInfo.cs
+D:\Spotlight\Spotlight.Core.Configuration\obj\Debug\net7.0\Spotlight.Core.Configuration.csproj.CoreCompileInputs.cache
+D:\Spotlight\Spotlight.Core.Configuration\obj\Debug\net7.0\Spotlight.Core.Configuration.dll
+D:\Spotlight\Spotlight.Core.Configuration\obj\Debug\net7.0\refint\Spotlight.Core.Configuration.dll
+D:\Spotlight\Spotlight.Core.Configuration\obj\Debug\net7.0\Spotlight.Core.Configuration.pdb
+D:\Spotlight\Spotlight.Core.Configuration\obj\Debug\net7.0\ref\Spotlight.Core.Configuration.dll

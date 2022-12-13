@@ -1,0 +1,5 @@
+D:\Spotlight\Spotlight.Persistence\obj\Debug\net7.0\Spotlight.Persistence.csproj.AssemblyReference.cache
+D:\Spotlight\Spotlight.Persistence\obj\Debug\net7.0\Spotlight.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Spotlight\Spotlight.Persistence\obj\Debug\net7.0\Spotlight.Persistence.AssemblyInfoInputs.cache
+D:\Spotlight\Spotlight.Persistence\obj\Debug\net7.0\Spotlight.Persistence.AssemblyInfo.cs
+D:\Spotlight\Spotlight.Persistence\obj\Debug\net7.0\Spotlight.Persistence.csproj.CoreCompileInputs.cache

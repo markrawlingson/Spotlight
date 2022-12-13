@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="Spotlight.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:Spotlight.Views"
+    xmlns:ViewModels="clr-namespace:Spotlight.ViewModels"
+    xmlns:Icons="clr-namespace:Spotlight.Resources.Icons"
+    x:DataType="ViewModels:ShellViewModel"
+    Shell.FlyoutBehavior="Disabled">
+
+    <Shell.MenuBarItems>
+        <MenuBarItem Text="File">
+            <MenuFlyoutItem Text="New Show">
+                <MenuFlyoutItem.IconImageSource>
+                    <FontImageSource 
+                        Glyph="{x:Static Icons:MaterialDesign.Plus}"
+                        FontFamily="MaterialDesign" 
+                        Color="{x:StaticResource Gray900}"/>
+                </MenuFlyoutItem.IconImageSource>
+            </MenuFlyoutItem>
+            <MenuFlyoutItem Text="Open Show">
+                <MenuFlyoutItem.IconImageSource>
+                    <FontImageSource 
+                        Glyph="{x:Static Icons:MaterialDesign.FolderOpen}"
+                        FontFamily="MaterialDesign" 
+                        Color="{x:StaticResource Gray900}"/>
+                </MenuFlyoutItem.IconImageSource>
+            </MenuFlyoutItem>
+            <MenuFlyoutSeparator />
+            <MenuFlyoutItem Text="Preferences"></MenuFlyoutItem>
+            <MenuFlyoutItem Text="Quit" Command="{Binding QuitCommand}"></MenuFlyoutItem>
+        </MenuBarItem>
+        <MenuBarItem Text="Edit">
+
+        </MenuBarItem>
+        <MenuBarItem Text="Tools">
+
+        </MenuBarItem>
+        <MenuBarItem Text="View">
+
+        </MenuBarItem>
+        <MenuBarItem Text="Audio">
+
+        </MenuBarItem>
+        <MenuBarItem Text="Import">
+            <MenuFlyoutItem Text="Sequence"></MenuFlyoutItem>
+        </MenuBarItem>
+        <MenuBarItem Text="Help">
+
+        </MenuBarItem>
+    </Shell.MenuBarItems>
+
+    <ShellContent
+        ContentTemplate="{DataTemplate local:Shows}">
+    </ShellContent>
+
+</Shell>

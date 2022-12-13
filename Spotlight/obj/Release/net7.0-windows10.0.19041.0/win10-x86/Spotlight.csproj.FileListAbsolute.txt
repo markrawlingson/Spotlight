@@ -1,0 +1,12 @@
+D:\Spotlight\Spotlight\obj\Release\net7.0-windows10.0.19041.0\win10-x86\Spotlight.csproj.AssemblyReference.cache
+D:\Spotlight\Spotlight\obj\Release\net7.0-windows10.0.19041.0\win10-x86\mauiimage.inputs
+D:\Spotlight\Spotlight\obj\Release\net7.0-windows10.0.19041.0\win10-x86\mauifont.inputs
+D:\Spotlight\Spotlight\obj\Release\net7.0-windows10.0.19041.0\win10-x86\mauisplash.inputs
+D:\Spotlight\Spotlight\obj\Release\net7.0-windows10.0.19041.0\win10-x86\mauimanifest.stamp
+D:\Spotlight\Spotlight\obj\Release\net7.0-windows10.0.19041.0\win10-x86\Platforms\Windows\App.g.i.cs
+D:\Spotlight\Spotlight\obj\Release\net7.0-windows10.0.19041.0\win10-x86\Platforms\Windows\App.g.cs
+D:\Spotlight\Spotlight\obj\Release\net7.0-windows10.0.19041.0\win10-x86\XamlTypeInfo.g.cs
+D:\Spotlight\Spotlight\obj\Release\net7.0-windows10.0.19041.0\win10-x86\Platforms\Windows\App.xaml
+D:\Spotlight\Spotlight\obj\Release\net7.0-windows10.0.19041.0\win10-x86\Platforms\Windows\App.xbf
+D:\Spotlight\Spotlight\obj\Release\net7.0-windows10.0.19041.0\win10-x86\XamlSaveStateFile.xml
+D:\Spotlight\Spotlight\obj\Release\net7.0-windows10.0.19041.0\win10-x86\Spotlight.GeneratedMSBuildEditorConfig.editorconfig
